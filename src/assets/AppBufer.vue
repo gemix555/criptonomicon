@@ -286,7 +286,7 @@ export default {
     },
 
     select(ticker) {
-      console.log("Ticker", ticker);
+      console.log(ticker);
       this.selectedTicker = ticker;
     },
 
